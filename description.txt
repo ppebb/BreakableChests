@@ -1,0 +1,5 @@
+Allows chests to be broken without being emptied first. You cannot break chests while another player has them open.
+
+[img]https://ppeb.me/files/BreakableChests.gif[/img]
+
+Note: Some mods may have chests that do not implement "IsLocked," if you find a mod where you are able to break locked chests, please report it either on [url=https://github.com/ppebb/BreakableChests]Github[/url] or on [url=https://discord.gg/EB6yPZj]Discord[/url] and I will try to fix it.

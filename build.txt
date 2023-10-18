@@ -1,0 +1,4 @@
+displayName = Breakable Chests
+author = ppeb
+version = 0.1
+homepage = https://github.com/ppebb/BreakableChests
